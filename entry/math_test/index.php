@@ -1,0 +1,1 @@
+<?php include('../generate.php'); ?>
